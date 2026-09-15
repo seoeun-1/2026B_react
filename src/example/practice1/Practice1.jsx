@@ -47,13 +47,9 @@ export default function Practice1( props ){ // 상위
 
 
 
-
-
-
-
 function Profile( props ) {  // 하위 
   return (<>
       <h3> { props.name } </h3>
       <img src={ props.imageUrl } />
   </> );
-} // func end 
+} 
