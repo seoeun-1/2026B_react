@@ -1,4 +1,3 @@
-// -> src -> example -> practice1 -> Practice1.jsx
 /*  컴포넌트 만들기
     1. 첫글자 대문자로 한 컴포넌트명.jsx 파일 생성
     2. export default function 컴포넌트명( props ){ }
@@ -44,8 +43,6 @@ export default function Practice1( props ){ // 상위
                 </div>`
     }
 */
-
-
 
 function Profile( props ) {  // 하위 
   return (<>
