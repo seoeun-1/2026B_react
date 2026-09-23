@@ -2,7 +2,8 @@ export default function Practice3(props){
     return(<>
         <h2>남서은</h2>
         <table border="1" style={{ borderCollapse: "collapse" }}>
-        <tbody><tr> 
+        <tbody>
+            <tr> 
             <th> 
                 학과
             </th>
